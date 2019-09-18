@@ -31,7 +31,6 @@ img {
 	transform: scale(0.9, 0.9);
 }
 
-
 .Navbar {
 	width: 100%;
 	background-color: #00000000;
@@ -55,6 +54,13 @@ img {
 	border-top: 5px solid #FF0000;
 	text-decoration: none;
 }
+.Navbar a.active {
+	color: #FF0000;
+	border-bottom: 5px solid #FF0000;
+	border-top: 5px solid #FF0000;
+	text-decoration: none;
+}
+
 .mainDiv {
 	border-top: solid 5px; 
 	border-bottom: solid 5px;
