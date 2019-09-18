@@ -25,6 +25,12 @@ body {
 body:hover {
 	color: #E1E7E4FF;
 }
+img {
+	float: right;
+	overflow: initial;
+	transform: scale(0.9, 0.9);
+}
+
 
 .Navbar {
 	width: 100%;
