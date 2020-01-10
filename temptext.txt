@@ -1,0 +1,23 @@
+
+        <p>
+            Hallo, ik ben Marlo van Gulik, een 17 jaar oude jongen die op MBO 4 niveau applicatie- en media-onwikkeling studeert. Ik doe dit al ongeveer een half jaar, 
+            sinds ik ben gestopt met de HAVO. Ik ben van de HAVO af gegaan, omdat ik het niet naar mijn zin had, en moeite had met iedere dag naar school gaan. Ik heb dit
+            tot HAVO 4 volgehouden, en in het midden heb ik plotseling besloten om naar het MBO te gaan, wat een geweldige keuze was, omdat ik iedere dag weer zin heb om naar school 
+            te gaan en te coderen. Ik ben sinds dat ik op het MBO zit, meer en meer geinterreseerd geworden in coderen en wat er allemaal met computers te doen valt. Omdat ik dit
+            niet echt kon doen op diep niveau, en veel tijd over heb op school omdat ik best wel goed bleek te zijn, wilde ik een taal op lager niveau, dichter bij de RAM en 
+            processor, en hiervoor ben ik C++ gaan leren. Hiermee heb ik een aantal dagen meegedaan aan the advent of code van 2019, en heb hier heel erg van genoten, 
+            omdat ik veel heb geleerd, en ook meer leerde over hoe andere talen met de computer omgaan, wat ook
+            fijn is om te weten. Toch zoek ik naar meer dingen die ik kan doen met coderen, omdat ik tegen limitaties aan liep met JavaScript. Toen heb ik geleerd dat je met C++ en
+            OpenGL dingen op je scherm kan krijgen. Dit vond ik geweldig en ik ben hiermee gaan experimenteren. Ik was hier al eerder mee bezig, maar had de fout gemaakt om te beginnen
+            met Vulkan, wat erg moeilijk een veel was, omdat ik nauwelijks kennis had van C++. Ik ben hierdoor best lang gestopt met C++ en dingen op mijn scherm proberen te krijgen.
+            Ik ben het nu wel opnieuw aan het proberen, maar nu gebruik ik SFML, en dat is een stuk makkelijker voor wat ik wil doen.
+        </p>
+        <h2>Waarom ik nu zo ben</h2>
+        <p>
+            Ik kom van HAVO/VWO brugklas, waar al snel bleek dat ik geen VWO denkwijze had. In HAVO 2 had ik een hele drukke klas, en de leraren hadden opgegeven om onze klas les te 
+            geven. Ik ben dit jaar blijven zitten, en ben bij een aantal geweldige mensen waarmee ik goed kon opschieten in de klas gekomen. Ik ben door deze mensen ook gaan coderen.
+            We gingen met z'n allen batch leren om hele simpele bestanden te maken om te kijken wat we de computer konden laten doen. Ik ben toen ook in aanraking gekomen met Blender.
+            Ik vond blender erg interessant, en heb hiermee een aantal schoolprojecten gedaan. Dit was nog erg simpel, maar toch duurde het lang voor de schoollaptop om het te renderen.
+            Het was mij al snel duidelijk dat ik meer wilde doen met computers. Ik ben toen in Unity gaan coderen, maar bleef tegen problemen aanlopen die ik nog niet helemaal begreep.
+            
+        </p>

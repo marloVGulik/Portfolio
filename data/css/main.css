@@ -1,0 +1,82 @@
+body {
+    /* background-color: #000000; */
+    margin: 0;
+    color: #FFFFFF;
+    text-align: center;
+    /* background: radial-gradient(circle at 100%, #151515, #000000); */
+    background: radial-gradient(circle at 100%, #4A4A4A, #FFFFFF);
+}
+a {
+    text-decoration: none;
+    color: #FF0000;
+}
+.container {
+    box-sizing: border-box;
+    border: 1px solid #313131;
+    background-color: #000000AA;
+    display: inline-block;
+    overflow: auto;
+}
+.containerMargin {
+    margin: 1em;
+}
+.containerTitle {
+    text-align: center;
+    box-sizing: border-box;
+    width: 100%;
+    font-size: large;
+    text-align: left;
+    height: 1.5em;
+    line-height: 1.5em;
+    padding: 0 1.5em;
+    margin: 0;
+    background-color: #151515AA;
+    border-bottom: 1px solid #313131;
+}
+
+.button {
+    box-sizing: border-box;
+    border: 1px solid #313131;
+    background-color: #00000055;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+#navBar {
+    padding: 0;
+    margin: 1em;
+}
+#navBar>button {
+    display: inline-block;
+    box-sizing: border-box;
+    height: 2em;
+    line-height: 2em;
+    font-size: 1.5em;
+    transition: 0.2s cubic-bezier(0.55, 0.085, 0.68, 0.53);
+}
+#navBar>button:hover {
+    border-color: #21b3d2;
+}
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 95%;
+  }
+  [class*="triple"] {
+    width: 33.33%;
+  }
+}
