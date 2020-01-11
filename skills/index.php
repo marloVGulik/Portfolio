@@ -6,7 +6,13 @@
 </head>
 <body>
     <?php include($IPATH."header.html") ?>
-    <?php include($IPATH."current.html") ?>
+    <div class="col-11" style="margin: auto">
+        <?php include($IPATH."current.html") ?>
+    </div>
+    <div class="container col-11" id="Mijn skills">
+        <h1>Mijn skills</h1>
+        <p></p>
+    </div>
     <script>createPageElement()</script>
 </body>
 </html>

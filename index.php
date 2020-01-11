@@ -8,7 +8,7 @@
     <?php include($IPATH."header.html") ?>
     <div class="col-3" style="display: inline-block;">
         <?php include($IPATH."current.html") ?>
-        <div class="container col-12" id="Spaceship render with Blender">
+        <div class="container col-12" id="Spaceship cockpit render met Blender">
             <img src="Data/images/spaceship led strips.png" width="100%">
             <img src="Data/images/spaceship no led strips.png" width="100%">
         </div>

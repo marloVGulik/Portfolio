@@ -5,7 +5,7 @@ body {
     text-align: center;
     /* background: radial-gradient(circle at 100%, #151515, #000000); */
     /* background: radial-gradient(circle at 100%, #4A4A4A, #FFFFFF); */
-    background-image: url(/portfolio/Data/images/background8K_compressed.jpg);
+    background-image: url();
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -18,6 +18,17 @@ p, h1, h2 {
 }
 img:hover {
     cursor: zoom-in;
+}
+#background {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: -10;
+}
+#background:hover {
+    cursor: initial;
 }
 
 .container {
