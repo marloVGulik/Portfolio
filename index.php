@@ -9,16 +9,16 @@
     <div class="col-3" style="display: inline-block;">
         <?php include($IPATH."current.html") ?>
         <div class="container col-12" id="Spaceship render with Blender">
-            <img src="Data/images/spaceship led strips.png" width="100%" id="Data/images/spaceship led strips.png">
-            <img src="Data/images/spaceship no led strips.png" width="100%" id="Data/images/spaceship no led strips.png">
+            <img src="Data/images/spaceship led strips.png" width="100%">
+            <img src="Data/images/spaceship no led strips.png" width="100%">
         </div>
     </div>
     <div class="col-8" style="display: inline-block">
         <div class="container col-12" id="Een aantal plaatjes">
-            <img src="Data/images/desktop.png" class="col-3" id="Data/images/desktop.png"><!--
-            --><img src="Data/images/desktop-blender.png" class="col-3" id="Data/images/desktop-blender.png"><!--
-            --><img src="Data/images/texture-testing.png" class="col-3" id="Data/images/texture-testing.png"><!--
-            --><img src="Data/images/texture-testing-blender.png" class="col-3" id="Data/images/texture-testing-blender.png">
+            <img src="Data/images/desktop.png" class="col-3"><!--
+            --><img src="Data/images/desktop-blender.png" class="col-3"><!--
+            --><img src="Data/images/texture-testing.png" class="col-3"><!--
+            --><img src="Data/images/texture-testing-blender.png" class="col-3">
         </div>
         <div class="container col-12" id="Over mij">
             <h1>Een stuk over mij op dit moment</h1>

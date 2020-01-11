@@ -12,7 +12,7 @@ function createPageElement() {
     var imageElements = document.getElementsByTagName("img");
     for(var i = 0; i < imageElements.length; i++) {
         imageElements[i].addEventListener("click", function() {
-            window.location.pathname = `/portfolio/${this.id}`;
+            window.location.href = this.src; //`/portfolio/${this.id}`;
         });
     }
 }

@@ -4,17 +4,28 @@ body {
     color: #FFFFFF;
     text-align: center;
     /* background: radial-gradient(circle at 100%, #151515, #000000); */
-    background: radial-gradient(circle at 100%, #4A4A4A, #FFFFFF);
+    /* background: radial-gradient(circle at 100%, #4A4A4A, #FFFFFF); */
+    background-image: url(/portfolio/Data/images/background8K_compressed.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 a {
     text-decoration: none;
     color: #FF0000;
 }
+p, h1, h2 {
+    padding: 0 1em;
+}
+img:hover {
+    cursor: zoom-in;
+}
+
 .container {
     box-sizing: border-box;
     border: 1px solid #313131;
     background-color: #000000AA;
     display: inline-block;
+    text-align: left;
     overflow: auto;
 }
 .containerMargin {
