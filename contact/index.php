@@ -13,10 +13,10 @@
         <div class="container col-12 height-7" id="Contactgegevens">
             <h1>Mijn contactgegevens</h1>
             <ul>
-                <li>Telefoonnummber: +31 6 18866708</li>
+                <li>Telefoonnummer: +31 6 18866708</li>
                 <li><a href="mailto:mjvangulik208@gmail.com">Email: mjvangulik208@gmail.com</a></li>
                 <li><a href="https://github.com/marloVGulik">Github: marloVGulik</a></li>
-                <li>Woonplaats: Kinkelenburg 133, 3328 AJ Dordrecht</li>
+                <li>Adres: Kinkelenburg 133, 3328 AJ Dordrecht (Tijdelijke woonplaats. Vanaf 1 maart: Tuinderslaan 58, 4731 XL Oudenbosch)</li>
             </ul>
         </div>
     </div>

@@ -11,14 +11,14 @@
     </div>
     <div class="container col-11" id="Mijn skills">
         <h1>Mijn skills</h1>
-        <p>Hieronder heb ik mijn skills opgesomt. Ik hoop dat ik deze skills heb kunnen bewijzen met de dingen die ik heb gemaakt. Dit zijn mijn skills:</p>
+        <p>Hieronder heb ik mijn skills opgesomd. Ik hoop dat ik deze skills heb kunnen bewijzen met de dingen die ik heb gemaakt. Dit zijn mijn skills:</p>
         <ul>
             <li>JavaScript</li>
             <li>NodeJS met socket.io</li>
             <li>CSS</li>
             <li>HTML</li>
             <li>C++</li>
-            <li>Modeleren in Blender</li>
+            <li>Modelleren in Blender</li>
             <li>Een beetje batch</li>
             <li>Alleen werken, zelf onderzoek doen</li>
             <li>Werken in een team</li>

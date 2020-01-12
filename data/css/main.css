@@ -10,18 +10,15 @@ body {
     background-size: cover;
 }
 body::-webkit-scrollbar {
-    width: 1em;
-}
-body::-webkit-scrollbar-track {
-    box-shadow: inset 0 0 6px #000000;
+    width: 0.5em;
 }
 body::-webkit-scrollbar-thumb {
     background-color: #FF0000;
-    outline: 1px solid #FFFFFF;
+    border-left: 1px solid #FFFFFF;
+    border-right: 1px solid #FFFFFF;
 }
 
 html {
-    overflow-y: scroll;
     scrollbar-color: #FF0000 #FFFFFF;
     scrollbar-width: thin;
 }
@@ -56,6 +53,9 @@ img:hover {
     text-align: left;
     overflow: auto;
     height: max-content;
+    
+    scrollbar-color: #FF0000 #FFFFFF;
+    scrollbar-width: thin;
 }
 .containerMargin {
     margin: 1em;
