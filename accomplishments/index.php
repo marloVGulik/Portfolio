@@ -6,7 +6,7 @@
 </head>
 <body>
     <?php include($IPATH."header.html") ?>
-    <div class="col-11" style="margin: auto">
+    <div class="col-11 height-3" style="margin: 0 auto 4px auto">
         <?php include($IPATH."current.html") ?>
     </div>
     <div class="container col-5" style="margin: auto" id="De achtergrond">

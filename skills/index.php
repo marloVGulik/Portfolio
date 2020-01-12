@@ -6,7 +6,7 @@
 </head>
 <body>
     <?php include($IPATH."header.html") ?>
-    <div class="col-11" style="margin: auto">
+    <div class="col-11 height-3" style="margin: auto">
         <?php include($IPATH."current.html") ?>
     </div>
     <div class="container col-11" id="Mijn skills">
@@ -22,8 +22,6 @@
             <li>Een beetje batch</li>
             <li>Alleen werken, zelf onderzoek doen</li>
             <li>Werken in een team</li>
-            <li></li>
-
         </ul>
     </div>
     <script>createPageElement()</script>
