@@ -38,9 +38,11 @@ img:hover {
     display: inline-block;
     text-align: left;
     overflow: auto;
+    height: max-content;
 }
 .containerMargin {
     margin: 1em;
+    line-height: 2em;
 }
 .containerTitle {
     text-align: center;
@@ -102,3 +104,26 @@ img:hover {
     width: 33.33%;
   }
 }
+
+.height-1 {height: 2rem;}
+.height-2 {height: 4rem;}
+.height-3 {height: 8rem;}
+.height-4 {height: 12rem;}
+.height-5 {height: 16rem;}
+.height-6 {height: 20rem;}
+.height-7 {height: 24rem;}
+.height-8 {height: 28rem;}
+.height-9 {height: 32rem;}
+.height-10 {height: 36rem;}
+.height-11 {height: 40rem;}
+.height-12 {height: 44rem;}
+
+@media only screen and (max-height: 600px) {
+    /* For mobile phones: */
+    [class*="height-"] {
+        height: fit-content;
+    }
+    [class*="triple-height"] {
+      height: 33.33%;
+    }
+  }

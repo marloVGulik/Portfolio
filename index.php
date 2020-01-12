@@ -8,19 +8,19 @@
     <?php include($IPATH."header.html") ?>
     <div class="col-3" style="display: inline-block;">
         <?php include($IPATH."current.html") ?>
-        <div class="container col-12" id="Spaceship cockpit render met Blender">
+        <div class="container col-12 height-10" id="Spaceship cockpit render met Blender">
             <img src="Data/images/spaceship led strips.png" width="100%">
             <img src="Data/images/spaceship no led strips.png" width="100%">
         </div>
     </div>
     <div class="col-8" style="display: inline-block">
-        <div class="container col-12" id="Een aantal plaatjes">
+        <div class="container col-12 height-5" id="Een aantal plaatjes" style="overflow:hidden">
             <img src="Data/images/desktop.png" class="col-3"><!--
             --><img src="Data/images/desktop-blender.png" class="col-3"><!--
             --><img src="Data/images/texture-testing.png" class="col-3"><!--
             --><img src="Data/images/texture-testing-blender.png" class="col-3">
         </div>
-        <div class="container col-12" id="Over mij">
+        <div class="container col-12 height-8" id="Over mij">
             <h1>Een stuk over mij op dit moment</h1>
             <p>
                 Hallo, ik ben Marlo van Gulik, een 17 jaar oude jongen die op MBO 4 niveau applicatie- en media-onwikkeling studeert. Ik doe dit al ongeveer een half jaar, 
