@@ -10,13 +10,13 @@
         <div class="col-12 height-3" style="margin-bottom: 4px">
             <?php include($IPATH."current.html") ?>
         </div>
-        <div class="container col-12 height-7" id="Contactgegevens">
-            <h1>Mijn contactgegevens</h1>
+        <div class="container col-12 height-7" id="Contact information">
+            <h1>My contact information</h1>
             <ul>
-                <li>Telefoonnummer: +31 6 18866708</li>
+                <li>Phone number: +31 6 18866708</li>
                 <li><a href="mailto:mjvangulik208@gmail.com">Email: mjvangulik208@gmail.com</a></li>
                 <li><a href="https://github.com/marloVGulik">Github: marloVGulik</a></li>
-                <li>Adres: Kinkelenburg 133, 3328 AJ Dordrecht (Tijdelijke woonplaats. Vanaf 1 maart: Tuinderslaan 58, 4731 XL Oudenbosch)</li>
+                <li>Adress: Kinkelenburg 133, 3328 AJ Dordrecht (From start of March: Tuinderslaan 58, 4731 XL Oudenbosch )</li>
             </ul>
         </div>
     </div>

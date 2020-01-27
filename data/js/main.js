@@ -7,7 +7,7 @@ function createPageElement() {
         elementsToChange[i].insertBefore(obj, elementsToChange[i].firstChild);
     }
 
-    document.getElementById("currentWindowLoc").innerHTML = `Je bevind jezelf nu in: ${window.location.pathname}`;
+    document.getElementById("currentWindowLoc").innerHTML = `You are now in: ${window.location.pathname}`;
 
     var imageElements = document.getElementsByTagName("img");
     for(var i = 0; i < imageElements.length; i++) {

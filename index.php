@@ -8,27 +8,27 @@
     <?php include($IPATH."header.html") ?>
     <div class="col-3" style="display: inline-block;">
         <?php include($IPATH."current.html") ?>
-        <div class="container col-12 height-10" id="Spaceship cockpit render met Blender">
+        <div class="container col-12 height-10" id="Spaceship cockpit render using Blender">
             <img src="Data/images/spaceship led strips.jpg" width="100%">
             <img src="Data/images/spaceship no led strips.jpg" width="100%">
         </div>
     </div>
     <div class="col-8" style="display: inline-block">
-        <div class="container col-12 height-4" id="Een aantal plaatjes" style="overflow:hidden">
+        <div class="container col-12 height-4" id="A few images" style="overflow:hidden">
             <img src="Data/images/desktop.jpg" class="col-3"><!--
             --><img src="Data/images/desktop-blender.jpg" class="col-3"><!--
             --><img src="Data/images/texture-testing.jpg" class="col-3"><!--
             --><img src="Data/images/texture-testing-blender.jpg" class="col-3">
         </div>
-        <div class="container col-12 height-9" id="Over mij">
+        <div class="container col-12 height-9" id="About me">
             <img src="Data/images/me.jpg" class="col-2 triple" style="float: right; border: 1px solid #FF0000">
-            <h1>Een stuk over mij op dit moment</h1>
-            <p>Hallo, ik ben Marlo van Gulik, 17 jaar oud. Sinds ik met de HAVO gestopt ben, studeer ik MBO 4 niveau applicatie- en media-onwikkeling. Ik doe dit nu ongeveer een half jaar. Ik ben van de HAVO af gegaan omdat ik de HAVO te theoretisch vond. Mijn overstap naar het MBO is een geweldige keuze omdat ik nu iedere dag mag coderen!</p>
-            <p>De opdrachten die ik op school krijg, heb ik sneller af dan verwacht en ik heb daarom meestal tijd over. Ik ben hiermee naar de docent gegaan en heb gevraagd of ik moeilijkere opdrachten kon krijgen. Hij heeft aan mij gevraagd of ik Minesweeper kon namaken in JavaScript. Dit gaf mij meer uitdaging. Verder heb ik samen met mijn docenten meegedaan aan de Advent of Code van 2019. De opdrachten heb ik in C++ gecodeerd. Ik heb hierdoor geleerd dat het best handig is om pointers te kunnen gebruiken. Ik weet nu ook hoe RAM werkt, wat mij uiteindelijk ook heeft geholpen met JavaScript. </p>
-            <p>Ik heb Unreal Engine verkend maar deze is erg uitgebreid en wist ik nog niet waar ik moest beginnen. Daarna heb ik geprobeerd met Vulkan een game engine te maken maar dit was voordat ik voldoende kennis had van C++. Vulkan is best wel ingewikkeld als je nog geen ervaring hebt met OpenGL en C++. Op dit moment probeer ik met behulp van GLFW een game engine te maken. Vooral het maken van (random) generators en AI vind ik interessant. </p>
-            <p>Ik vind het ook leuk om te modelleren en ik heb hier al eerder iets mee gemaakt, zoals het ruimteschip hiernaast. Na dit ruimteschip heb ik mijn PC-case met een non-destructive workflow nagemaakt wat ik ook leuk vond om te doen. </p>
-            <h2>Waar ik naar streef</h2>
-            <p>Na deze opleiding wil ik doorgaan naar de HBO, en misschien zelfs naar een universiteit. Ik zou heel graag aan een game (mee)werken omdat ik dit erg leuk en interessant vind. Het random genereren van objecten, zoals terrein of planeten vind ik het leukst. Ook AI is heel interessant, en ik zou deze kant ook heel graag willen verkennen. Ik hoop nog superveel te kunnen leren over computers, programmeren, modelleren en de nieuwste technologie. Ik denk dat er in deze branch altijd te leren valt omdat er continu nieuwe dingen ontwikkeld worden.</p>
+            <h1>A little about me</h1>
+            <p>Hi, I am Marlo van Gulik and I am 17 years old. Last year I transferred from an administrative education (HAVO) to application development (MBO). I made this choice, because the administrative eduction was too theoretical. This was a great choice, since I can develop my coding skills further and do something I enjoy.</p>
+            <p>In one of the first weeks of the new education, it became clear that I finished the assignments relatively easily. I went to the teachers with this because I had a lot of spare time. The teachers gave me the opportunity to recreate minesweeper in JavaScript. Doing this was great, because it was more challenging than the normal assignments. In December the teachers and me participated in the Advent of Code 2019. I did this in C++ because I was looking for more challenge and I was learning C++ at this time. Because of this I learned how RAM works and I learned a lot about C++. This helped me with making JavaScript code too.</p>
+            <p>Games have always been interesting for me, and I would love to create a game. I have done some research for making games, and looked at several engines to run the game on. They’re all quite interesting, but I had no idea what kind of game to make. Currently, I am creating an engine to run the game on, as challenge and for fun since I love coding. I started with Vulkan as rendering API, but this is quite hard when you don’t have OpenGL experience yet. It didn’t work out and I didn’t understand Vulkan. But I didn’t give up and completely stop, I restarted but this time I am using GLFW, since it’s a lot more simple. Right now it’s going great, although I haven’t come very far yet, but the basics are here.</p>
+            <p>In the second year of HAVO, I used Blender for a school project, and loved using it to create 3D models. I did a lot more research after this, and started enjoying it way more. I made this spaceship cockpit on the left, and my PC’s case (the top picture). The PC’s case was made using a non-destructive workflow.</p>
+            <h2>What I want</h2>
+            <p>I want to continue to HBO, and maybe even university. Making games seems like a lot of fun to me, the logic part as well as the design part. What I have always found interesting in games is procedural generation. Also artificial intelligence is really interesting. This field interests me because there is always something to learn, and I hope to learn a lot.</p>
         </div>
     </div>
     <script>createPageElement()</script>
